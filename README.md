@@ -15,3 +15,9 @@ Available features:
 
 Demo Link: https://youtu.be/XzH8gX69dls
 Original Chrome webstore link: https://bit.ly/linkedxtra
+
+## Installation
+1. Goto Chrome Settings using three dots on the top right corner and Select Extensions.
+2. Check the Toggle to Enable Developer Mode
+3. Click on Load Unpacked option on the top left corner and select the `Extension` Folder
+4. Linkedin Xtra should be added to your chrome extensions
