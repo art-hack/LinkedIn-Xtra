@@ -14,6 +14,7 @@ Available features:
 5. Select all conversations in the Inbox matching all selected filters + auto scroll until all conversations are loaded - This feature can be helpful if you are looking to delete certain conversations that matches your keyword search in bulk
 
 Demo Link: https://youtu.be/XzH8gX69dls
+
 Original Chrome webstore link: https://bit.ly/linkedxtra
 
 ## Installation
